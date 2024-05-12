@@ -9,6 +9,7 @@
 
 ## Tecnologias que uso
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-
+# Currículo 
+![Vitae](https://github.com/andrerogersdev/andrerogersdev/blob/main/Moderno.jpg)
 ### | Cursando Análise e Desenvolvimento de Sistemas 
 ### | Machine Learning e Web Automation Entusiast
